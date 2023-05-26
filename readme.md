@@ -2,7 +2,7 @@ For any project in D3, it makes sense to “Divide and Conquer” a complex task
 
 1. Load the data into your main.js file using the d3.csv() function. Make sure that you format the data, so that you can work with values as integers. Make a console log so that you can see the output of the data in the browser.
 
-2. Add an SVG canvas to the #chart-area div element with a width of 600px and a height of 400px. Add a group for our SVG elements, and define some suitable margins for an x and y axis.
+2. Add an SVG canvas to the #chart-area div element with a width of 600px and a height of 400px. Add a group for our SVG elements, and define some suitable margins for an x and y axis. 
 
 3. Create the scales for our visualization. The x-axis should be an band scale, whilst our y-axis will be a linear scale.
 
